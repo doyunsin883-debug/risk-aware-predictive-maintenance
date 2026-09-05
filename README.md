@@ -8,7 +8,7 @@
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-2F9E44.svg)](DATA_AND_ASSET_NOTICE.md)
 [![Research status](https://img.shields.io/badge/status-independent%20research-6F42C1.svg)](reports/)
 
-[한국어 논문 (PDF)](reports/risk_aware_predictive_maintenance_paper_ko.pdf) · [English paper (PDF)](reports/risk_aware_predictive_maintenance_paper_en.pdf) · [재현 안내](REPRODUCIBILITY.md) · [모델 카드](MODEL_CARD.md) · [English README](README_EN.md)
+[📄 한국어 논문 보기](reports/paper_ko_mobile.md) · [📄 English Paper](reports/paper_en_mobile.md) · [⬇ 원본 PDF 다운로드](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/releases/tag/v1.0.0) · [재현 안내](REPRODUCIBILITY.md) · [모델 카드](MODEL_CARD.md) · [English README](README_EN.md)
 
 ![센서 기반 공정 감시 콘셉트](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/hero.jpg)
 

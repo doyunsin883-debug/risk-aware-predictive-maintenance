@@ -4,7 +4,7 @@ An independent industrial-engineering study that connects **process monitoring �
 
 [![quality](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/actions/workflows/quality.yml/badge.svg)](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/actions/workflows/quality.yml) [![License: MIT](https://img.shields.io/badge/Code-MIT-0B7285.svg)](LICENSE)
 
-[Korean paper](reports/risk_aware_predictive_maintenance_paper_ko.pdf) · [English paper](reports/risk_aware_predictive_maintenance_paper_en.pdf) · [Reproducibility](REPRODUCIBILITY.md) · [Model card](MODEL_CARD.md) · [한국어 README](README.md)
+[Korean paper — mobile view](reports/paper_ko_mobile.md) · [English paper — mobile view](reports/paper_en_mobile.md) · [Download original PDFs](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/releases/tag/v1.0.0) · [Reproducibility](REPRODUCIBILITY.md) · [Model card](MODEL_CARD.md) · [한국어 README](README.md)
 
 ## Locked test result
 

@@ -24,3 +24,5 @@ The following images were generated with an image-generation tool on 2026-09-05 
 Both images are labeled as generated in the papers and README. They are not empirical evidence, do not portray an actual experiment, and should not be used to infer research conditions.
 
 Files under `assets/readme/` are mobile-optimized derivatives of the corresponding concept or empirical images. They change only pixel dimensions and compression; the original full-resolution files remain under `assets/` and `figures/`.
+
+Files under `assets/paper_preview/` are compressed page previews rendered from the final PDF manuscripts. They are provided because GitHub's iframe PDF viewer may remain on `Loading` in some mobile clients. The PDF and DOCX files under `reports/` remain the authoritative manuscript files.
