@@ -1,0 +1,4 @@
+variable,validation_alarm_rate,validation_failure_detection_rate,failure_rate_within_alarm,risk_lift
+Torque,0.0133,0.1250,0.2000,9.38
+Mechanical power,0.0147,0.1250,0.1818,8.52
+Rotational speed,0.0380,0.1875,0.1053,4.93

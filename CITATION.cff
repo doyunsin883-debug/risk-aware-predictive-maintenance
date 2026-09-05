@@ -1,0 +1,23 @@
+cff-version: 1.2.0
+message: "If you use this research software, please cite it as below."
+title: "Risk-Aware Predictive Maintenance Decision System"
+type: software
+authors:
+  - family-names: "Shin"
+    given-names: "Doyun"
+    affiliation: "Department of Industrial Engineering, Gachon University"
+repository-code: "https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance"
+url: "https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance"
+version: 1.0.0
+date-released: 2026-09-05
+license: MIT
+keywords:
+  - predictive maintenance
+  - statistical process control
+  - gradient boosting
+  - industrial engineering
+  - operations research
+abstract: >-
+  A reproducible case study that connects I-MR process monitoring,
+  imbalanced failure classification, threshold selection, constrained
+  operating-point search, and illustrative maintenance planning on AI4I 2020.

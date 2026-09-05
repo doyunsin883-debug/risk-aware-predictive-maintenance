@@ -1,0 +1,9 @@
+{
+  "grid_candidates": 3600,
+  "feasible_candidates": 1999,
+  "rotational_speed_rpm": 1768.3389830508474,
+  "torque_nm": 41.445762711864405,
+  "mechanical_power_kw": 7.675,
+  "model_score_percent": 1.3046,
+  "interpretation": "One representative tied minimum on a finite conditional grid; not a unique continuous optimum."
+}
