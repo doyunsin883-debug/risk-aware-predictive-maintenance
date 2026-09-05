@@ -22,3 +22,5 @@ The following images were generated with an image-generation tool on 2026-09-05 
 - `assets/concept_maintenance_decision.png`: a Korean industrial-engineering researcher inspecting a CNC cutting tool while consulting a tablet; editorial, non-branded setting.
 
 Both images are labeled as generated in the papers and README. They are not empirical evidence, do not portray an actual experiment, and should not be used to infer research conditions.
+
+Files under `assets/readme/` are mobile-optimized derivatives of the corresponding concept or empirical images. They change only pixel dimensions and compression; the original full-resolution files remain under `assets/` and `figures/`.

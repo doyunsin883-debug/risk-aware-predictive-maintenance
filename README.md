@@ -10,7 +10,7 @@
 
 [한국어 논문 (PDF)](reports/risk_aware_predictive_maintenance_paper_ko.pdf) · [English paper (PDF)](reports/risk_aware_predictive_maintenance_paper_en.pdf) · [재현 안내](REPRODUCIBILITY.md) · [모델 카드](MODEL_CARD.md) · [English README](README_EN.md)
 
-![센서 기반 공정 감시 콘셉트](assets/concept_machine_monitoring.png)
+![센서 기반 공정 감시 콘셉트](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/hero.jpg)
 
 <sub>그림 1. 연구 흐름을 설명하기 위한 생성형 이미지이며 실험 결과가 아닙니다. 생성 경위는 [데이터·자산 고지](DATA_AND_ASSET_NOTICE.md)에 기록했습니다.</sub>
 
@@ -71,9 +71,11 @@ flowchart LR
 
 온도차는 학습 평균 9.610 K에서 검증 평균 10.924 K로 이동했고, 고정 관리한계 적용 시 검증 경보율이 96.13%에 달했다. 따라서 온도차 경보를 예측 특징으로 채택하지 않고 **기준선 변화 신호**로 해석했다.
 
-| 공정 감시 | 모델 검증 | 최종 테스트 | 의사결정 |
-|---|---|---|---|
-| ![토크 I 관리도](figures/sqc/torque_i_chart.png) | ![모델 비교](figures/ml/rf_gb_threshold_precision_recall.png) | ![혼동행렬](figures/ml/final_gradient_boosting_test_confusion_matrix.png) | ![위험도 곡면](figures/optimization/rpm_torque_failure_risk_surface.png) |
+| 공정 감시 | 모델 검증 |
+|---|---|
+| ![토크 I 관리도](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/torque_i_chart.png) | ![모델 비교](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/model_selection.png) |
+| **최종 테스트** | **의사결정** |
+| ![혼동행렬](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/confusion_matrix.png) | ![위험도 곡면](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/risk_surface.png) |
 
 ## 빠른 재현
 

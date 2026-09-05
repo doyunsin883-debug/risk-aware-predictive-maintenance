@@ -30,7 +30,7 @@ Confusion matrix: **TN 1,454 · FP 17 · FN 8 · TP 21**.
 5. Lock the model and threshold, then open the test block once.
 6. Translate the score into a constrained speed–torque search, tool-wear sensitivity analysis, and an illustrative two-mode linear program.
 
-![Locked test confusion matrix](figures/ml/final_gradient_boosting_test_confusion_matrix.png)
+![Locked test confusion matrix](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/confusion_matrix.png)
 
 ## Reproduce
 
