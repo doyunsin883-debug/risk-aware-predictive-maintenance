@@ -4,7 +4,16 @@ An independent industrial-engineering study that connects **process monitoring �
 
 [![quality](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/actions/workflows/quality.yml/badge.svg)](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/actions/workflows/quality.yml) [![License: MIT](https://img.shields.io/badge/Code-MIT-0B7285.svg)](LICENSE)
 
-[Korean paper — mobile view](reports/paper_ko_mobile.md) · [English paper — mobile view](reports/paper_en_mobile.md) · [Download original PDFs](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/releases/tag/v1.0.0) · [Reproducibility](REPRODUCIBILITY.md) · [Model card](MODEL_CARD.md) · [한국어 README](README.md)
+[Expanded bilingual paper and reading guide](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper) · [Korean mobile reader](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/blob/main/papers/read-ko.md) · [English mobile reader](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/blob/main/papers/read-en.md) · [Reproducibility](REPRODUCIBILITY.md) · [Model card](MODEL_CARD.md) · [한국어 README](README.md)
+
+## Two core repositories
+
+| Repository | Role |
+|---|---|
+| **This repository — Reproducible Code** | Notebooks, data, model artifacts, tests, and reproduction commands |
+| **[Paper & Reading Guide](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper)** | Expanded Korean and English manuscripts, mobile readers, accessible explanation, and research logic |
+
+Read the argument in the paper repository, then trace each reported number through this code repository.
 
 ## Locked test result
 

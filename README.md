@@ -8,11 +8,20 @@
 [![Data: CC BY 4.0](https://img.shields.io/badge/Data-CC%20BY%204.0-2F9E44.svg)](DATA_AND_ASSET_NOTICE.md)
 [![Research status](https://img.shields.io/badge/status-independent%20research-6F42C1.svg)](reports/)
 
-[📄 한국어 논문 보기](reports/paper_ko_mobile.md) · [📄 English Paper](reports/paper_en_mobile.md) · [⬇ 원본 PDF 다운로드](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance/releases/tag/v1.0.0) · [재현 안내](REPRODUCIBILITY.md) · [모델 카드](MODEL_CARD.md) · [English README](README_EN.md)
+[📚 확장 한·영 논문과 쉬운 해설](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper) · [📄 국문 모바일 리더](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/blob/main/papers/read-ko.md) · [📄 English reader](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper/blob/main/papers/read-en.md) · [재현 안내](REPRODUCIBILITY.md) · [모델 카드](MODEL_CARD.md) · [English README](README_EN.md)
 
 ![센서 기반 공정 감시 콘셉트](https://raw.githubusercontent.com/doyunsin883-debug/risk-aware-predictive-maintenance/main/assets/readme/hero.jpg)
 
 <sub>그림 1. 연구 흐름을 설명하기 위한 생성형 이미지이며 실험 결과가 아닙니다. 생성 경위는 [데이터·자산 고지](DATA_AND_ASSET_NOTICE.md)에 기록했습니다.</sub>
+
+## 두 핵심 저장소
+
+| 저장소 | 역할 | 읽는 순서 |
+|---|---|---|
+| **현재 저장소 — Reproducible Code** | 노트북, 데이터, 모델 산출물, 테스트, 재현 명령 | 수치와 그림이 어떻게 만들어졌는지 검증 |
+| **[Paper & Reading Guide](https://github.com/doyunsin883-debug/risk-aware-predictive-maintenance-paper)** | 확장 국·영 논문, 모바일 페이지 리더, 쉬운 설명, 연구 흐름 | 왜 이 분석을 했고 어디까지 해석할 수 있는지 이해 |
+
+두 저장소는 하나의 연구를 나눠 담는다. **논문 저장소에서 논증을 읽고, 이 저장소에서 계산을 추적하는 순서**를 권장한다.
 
 ## 한눈에 보는 결과
 
